@@ -1,0 +1,103 @@
+body{
+	background-color: powderblue;
+
+}
+
+
+.buscador {
+	background-color: #E6E6FA;
+	text-align: center;
+	border-radius: 40px;
+	font-family: cursive;
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	padding-top: 5px;
+	box-shadow: 0px 10px 14px -7px #5f82c7;
+}
+img {
+	width: 200px; 
+	height: 200px;
+	text-align:center;
+	margin: auto;
+	opacity: 0.8;
+	border-radius: 40px;
+	display: block;
+	box-shadow: 0px 10px 20px -10px #5f82c7;
+
+
+	}
+.enter {
+	box-shadow: 0px 7px 31px -7px #904aa8;
+	background:linear-gradient(to bottom, #d49dc3 5%, #d09bdb 100%);
+	background-color:#d49dc3;
+	border-radius:11px;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff5ff;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:4px 5px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.enter:hover {
+	background:linear-gradient(to bottom, #d09bdb 5%, #d49dc3 100%);
+	background-color:#d09bdb;
+}
+.enter:active {
+	position:relative;
+	top:1px;
+}
+
+
+.mejores10{
+	background-color: 	ivory;
+	text-align: center;
+	border-radius: 40px;
+	font-family: cursive;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	box-shadow: 0px 10px 14px -7px #5f82c7;
+}
+
+.enter2 {
+	box-shadow: 0px 10px 14px -7px #5f82c7;
+	background:linear-gradient(to bottom, #a8cfed 5%, #7cb5e6 100%);
+	background-color:#a8cfed;
+	border-radius:10px;
+	border:2px solid #7dc2f0;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff5ff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:11px 18px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #79c1f2;
+}
+.enter2:hover {
+	background:linear-gradient(to bottom, #7cb5e6 5%, #a8cfed 100%);
+	background-color:#7cb5e6;
+}
+.enter2:active {
+	position:relative;
+	top:1px;
+}
+
+input{
+	box-shadow: 0px 7px 31px -7px #904aa8;
+	background:linear-gradient;
+	background-color:#e1b7d4;
+	border-radius:3px;
+	display:inline-block;
+	font-family:'open sans';
+	text-align: center;
+	color:white;
+}
